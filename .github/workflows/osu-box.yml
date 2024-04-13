@@ -25,7 +25,7 @@ jobs:
         run: npm start
         env:
           GIST_ID: 70bfb40ec3ba15ec1f8835f8a9a9fcf3
-          OSU_USERNAME: xkstation
+          OSU_USERNAME: weikuu
           OSU_MODE: osu
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
