@@ -24,7 +24,7 @@ jobs:
       - name: Update Gist
         run: npm start
         env:
-          GIST_ID: f53231aed6896f053ecbc32ba77b4973
+          GIST_ID: 70bfb40ec3ba15ec1f8835f8a9a9fcf3
           OSU_USERNAME: xkstation
           OSU_MODE: osu
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
